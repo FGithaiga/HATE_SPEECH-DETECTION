@@ -10,7 +10,7 @@ The project involves data preprocessing, feature extraction, model training, eva
 Hate speech and offensive content on social media platforms pose serious social and ethical challenges. Traditional manual moderation methods are time-consuming, expensive, and often ineffective, given the sheer volume of user-generated content.
 
 # **OBJECTIVES**
-1. To determine the caues of hate speech and offensive language.
+1. To determine the causes of hate speech and offensive language.
 2. To analyze the impact of hate speech and offensive language on individuals, communities and society at large.
 3. To distingush hate speech and sacarasm.
 4. To deterimine how hata speech can be detected.
